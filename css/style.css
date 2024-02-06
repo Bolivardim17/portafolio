@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0;
+    
+}
+
+body{
+    width: 100%;
+    height: 150vh;
+    background-color: beige;
+    display: flex;  
+    
+}
+
+aside{
+
+width: 20%;
+height: 150vh;
+margin: 20px;
+margin-right: auto;
+justify-content: flex ;
+margin-left: 150px;
+background-color: antiquewhite;
+
+}
+
+aside img{
+    width: 100%;
+    height: 280px;
+    
+}
+
+main{
+    width: 60%;
+    height: 150vh;
+    margin: 20px;
+    margin-right: 100px;
+    background-color: antiquewhite;
+}
+
+aside h3{
+    color: rgb(90, 90, 147);
+    margin-top: 15px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h4{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.p_contacto{
+    margin: 13px;
+    margin-left: -1px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.d_parrafo{
+    margin: 15px;
+    margin-left: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(63, 59, 59);
+    
+}
+
+main h1{
+    margin-left: 200px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3px;
+
+}
+
+.h3_titulo{
+    margin-left:300px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -5px;
+    color:black;
+
+} 
+
+main h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(90, 90, 147);
+    margin-top: 20px;
+    
+
+}
+
+main p{
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    margin-left: -1px;
+}
+
+.conoyhabi{
+    background-color: #808080;
+    border: solid black;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.parrafo_conocimientos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.expelabo{
+    margin-top: 10px;
+}
+
